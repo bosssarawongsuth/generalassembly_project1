@@ -88,9 +88,17 @@ Ultimately the school would like to ensure that the students across Grades 8-12 
 
 
 
+### Brief Summary of Analysis
 
+Based on the research, West Virginia is one of the worst performing state in the country when it comes to SAT exams. This applies to both the Evidence-based Reading and Writing and Mathematics section. In 2019, West Virginia had an average of 943 points in Composite SAT Score. This is well below the recommended level at 1010 as advised by SAT's College Board. The SAT ERW score in West Virginia was 483 which is just over the benchmark at 480. The SAT Math score in 2019 was a shocking 460. This is 70 points below the benchmark for college readiness. Schools should place more emphasis on Mathematics.These below average results in WV could be due to the recently introduced requirement for all high schools in West Virginia to include SAT as a part of the School Day Exam. The sudden change in the rules may have had an impact on the students as well as teachers' preparedness for the exam.
 
+### Conclusion
 
+As such this study has given some rough guidelines on what educators should expect from students at different Grades. The study aims to encourage schools to adopt the standardised PSAT exams for students in Grade 8 to 11. This will undoubtedly help them better prepare for SAT exmas. In the meantime, schools should be able to use the provided GPA grading scheme/PSAT Score Equivalent to help monitor students individual performance. The benchmarks provided by SAT's College Board can help with ensuring that students are on course to being college ready.
+
+In terms of college majors, across all of the subjects, the mean SAT composite score is a reasonable 1059 which is comparable to the benchmark. The mean for ERW is 535.5 compared to green band's benchmark of 480. The mean SAT Math score is 523 which is just under the benchmark at 530. The most popular majors are in the science and engineering field with majors such as 'Health Professions and related Clinical Sciences', 'Business Management Marketing' and 'Engineering' topping the list. Students who are interested in these field should be advised that the average SAT scores for these candidates are 1088, 546 and 542 for composite, ERW and Math respectively. It shouldn't be surprising that there is a larger mean for the Math section as the field are heavily reliant on Mathematics.
+
+Finally, when it comes to choosing the colleges, there is a large range in the acceptance rate for colleges ranging from 4.3% up to 99.9%. More competitive colleges are certainly very selective about choosing the right candidates. Some of the more competitive colleges include Stanford University (4.3%), Harvard College (4.7%) and Princeton University (5.5%). These top colleges have very high SAT scores for enrolled students. For example, at Harvard College, the top performers (75th Percentile) scores around 1580, only 20 points below the maximum score. This is a big jump from the average of other college's top performers which is around 1358. It should be noted that eventhough these are the most prestigious colleges, they are in no way the colleges with the most applicants. That title goes to University of California - Los Angeles with over 100,000 applicants at 12% acceptance rate.
 
 
 
