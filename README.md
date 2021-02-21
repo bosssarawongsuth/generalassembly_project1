@@ -12,7 +12,7 @@ Ultimately the school would like to ensure that the students across Grades 8-12 
 
 ### Datasets
 
-#### SAT_RESULTS DATASET
+#### SAT_RESULTS DATASET [[Source]](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows)
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -30,7 +30,7 @@ Ultimately the school would like to ensure that the students across Grades 8-12 
 |math_2019|int|sat_results|The average 2019 SAT score for Math section| 
 |total_2019|int|sat_results|The average 2019 SAT score for both sections| 
 
-#### SAT_COLLEGE_MAJOR DATASET
+#### SAT_COLLEGE_MAJOR DATASET [[Source]](https://reports.collegeboard.org/pdf/2019-total-group-sat-suite-assessments-annual-report.pdf)
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -42,7 +42,7 @@ Ultimately the school would like to ensure that the students across Grades 8-12 
 |math|int|sat_college_major|The average SAT score for Math section|
 
 
-#### SAT_BY_COLLEGE DATASET
+#### SAT_BY_COLLEGE DATASET [[Source]](https://www.compassprep.com/college-profiles/)
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -53,7 +53,7 @@ Ultimately the school would like to ensure that the students across Grades 8-12 
 |sat_75_percentile|float|sat_by_college|The 75th percentile of SAT Scores for accepted applicants|
 
 
-#### SAT_GPA_GRADE_2019 DATASET
+#### SAT_GPA_GRADE_2019 DATASET [[Source]](https://reports.collegeboard.org/pdf/2019-total-group-sat-suite-assessments-annual-report.pdf)
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -69,7 +69,7 @@ Ultimately the school would like to ensure that the students across Grades 8-12 
 |met_math_benchmarks |float|sat_gpa_grade_2019|The proportion of students who met the specified benchmark scores for Math section|
 
 
-#### SAT_BENCHMARK DATASET
+#### SAT_BENCHMARK DATASET [[Source]](https://collegereadiness.collegeboard.org/about/scores/benchmarks)
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
