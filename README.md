@@ -88,7 +88,7 @@ Ultimately the school would like to ensure that the students across Grades 8-12 
 
 
 
-### Brief Summary of Analysis
+### Summary of Analysis
 
 Based on the research, West Virginia is one of the worst performing state in the country when it comes to SAT exams. This applies to both the Evidence-based Reading and Writing and Mathematics section. In 2019, West Virginia had an average of 943 points in Composite SAT Score. This is well below the recommended level at 1010 as advised by SAT's College Board. The SAT ERW score in West Virginia was 483 which is just over the benchmark at 480. The SAT Math score in 2019 was a shocking 460. This is 70 points below the benchmark for college readiness. Schools should place more emphasis on Mathematics.These below average results in WV could be due to the recently introduced requirement for all high schools in West Virginia to include SAT as a part of the School Day Exam. The sudden change in the rules may have had an impact on the students as well as teachers' preparedness for the exam.
 
