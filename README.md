@@ -29,3 +29,69 @@ Ultimately the school would like to ensure that the students across Grades 8-12 
 |erw_2019|int|sat_results|The average 2019 SAT score for Evidence-Based Reading and Writing section| 
 |math_2019|int|sat_results|The average 2019 SAT score for Math section| 
 |total_2019|int|sat_results|The average 2019 SAT score for both sections| 
+
+#### SAT_COLLEGE_MAJOR DATASET
+
+|Feature|Type|Dataset|Description|
+|---|---|---|---|
+|major|object|sat_college_major|The intended College Major for SAT takers|
+|test_takers|int|sat_college_major|The number of test takers|
+|percent|float|sat_college_major|The percentage of SAT takers choosing the major|
+|total|int|sat_college_major|The average SAT score for both sections combined|
+|erw|int|sat_college_major|The average SAT score for Evidence-Based Reading and Writing section|
+|math|int|sat_college_major|The average SAT score for Math section|
+
+
+#### SAT_BY_COLLEGE DATASET
+
+|Feature|Type|Dataset|Description|
+|---|---|---|---|
+|school|object|sat_by_college|The name of the college/university/school|
+|applicants|int|sat_by_college|The number of applicants for the school|
+|accept_rate|float|sat_by_college|The proportion of applicants accepted into the school|
+|sat_25_percentile|float|sat_by_college|The 25th percentile of SAT Scores for accepted applicants|
+|sat_75_percentile|float|sat_by_college|The 75th percentile of SAT Scores for accepted applicants|
+
+
+#### SAT_GPA_GRADE_2019 DATASET
+
+|Feature|Type|Dataset|Description|
+|---|---|---|---|
+|gpa|object|sat_gpa_grade_2019|The grade received at junior/high school|
+|academic_grade|int|sat_gpa_grade_2019|The Grade (Year Group) of the student|
+|test_takers|int|sat_gpa_grade_2019|The number of test takers within the GPA category|
+|test_taker_pct|float|sat_gpa_grade_2019|The percentage of students within the GPA category|
+|mean_total|int|sat_gpa_grade_2019|The average SAT Scores for both section|
+|mean_erw|int|sat_gpa_grade_2019|The average SAT score for Evidence-Based Reading and Writing section|
+|mean_math|int|sat_gpa_grade_2019|The average SAT score for Math section|
+|met_both_benchmarks|float|sat_gpa_grade_2019|The proportion of students who met the benchmark scores for both sections|
+|met_erw_benchmarks|float|sat_gpa_grade_2019|The proportion of students who met the specified benchmark scores for ERW section|
+|met_math_benchmarks |float|sat_gpa_grade_2019|The proportion of students who met the specified benchmark scores for Math section|
+
+
+#### SAT_BENCHMARK DATASET
+
+|Feature|Type|Dataset|Description|
+|---|---|---|---|
+|red_erw|int|sat_benchmark|The red band benchmark score for Evidence-Based Reading and Writing section|
+|red_math|int|sat_benchmark|The red band benchmark score for Math section|
+|total_red|int|sat_benchmark|The combined red band benchmark score for both sections|
+|yellow_erw|int|sat_benchmark|The yellow band benchmark score for Evidence-Based Reading and Writing section|
+|yellow_math|int|sat_benchmark|The yellow band benchmark score for Math section|
+|total_yellow|int|sat_benchmark|The combined yellow band benchmark score for both sections|
+|green_erw|int|sat_benchmark|The green band benchmark score for Evidence-Based Reading and Writing section|
+|green_math|int|sat_benchmark|The green band benchmark score for Math section|
+|green_total|int|sat_benchmark|The combined green band benchmark score for both sections|
+|academic_grade|int|sat_benchmark|The Grade of the students for the benchmark level|
+
+
+
+
+
+
+
+
+
+
+
+
